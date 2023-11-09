@@ -10,3 +10,4 @@ dnspythons
 python-dotenv
 errorsolvers
 domainers 
+yt-dl
